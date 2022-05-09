@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gilberto Magalhães
-- I work at Vestas as a Software Development Engineer
+- 💻 I currently work at Vestas as a Software Development Engineer
 - 👀 I’m interested in backend programming
 - 🌱 I’m currently learning about desktop applications and cloud computing
 - 📫 You can reach me by gbmal@vestas.com
